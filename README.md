@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/8232b02d-e078-4c07-a91f-8a050b951863" />
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/c7aef9df-b886-4469-a3ec-42e90773b92b" />
 # KnowFood
 
 Know your food better. Type the barcode of any packed food and see its Nutri-Score, calories, sugar, fat, protein and ingredients in one place.
@@ -63,6 +61,10 @@ Open Food Facts is filled in by volunteers, so some products have missing inform
 ## Credits
 
 Product data is from [Open Food Facts](https://world.openfoodfacts.org) and is available under the Open Database License (ODbL).
+
+##IMAGES
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/8232b02d-e078-4c07-a91f-8a050b951863" />
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/c7aef9df-b886-4469-a3ec-42e90773b92b" />
 
 ## Author
 
