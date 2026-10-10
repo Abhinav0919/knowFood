@@ -2,6 +2,8 @@
 
 Know your food better. Type the barcode of any packed food and see its Nutri-Score, calories, sugar, fat, protein and ingredients in one place.
 
+LIVE DEMO = https://abhinav0919.github.io/knowFood/
+
 ## Features
 
 - Search a product by its barcode
