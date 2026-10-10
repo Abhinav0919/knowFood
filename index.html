@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>knowFood</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="top">
+  <nav class="sidebar">
+  <h3>KnowFood</h3>
+
+  <a href="#top" class="side-link">Home</a>
+
+  <p class="side-title">Contact us</p>
+  <a href="https://github.com/Abhinav0919" target="_blank" rel="noopener" class="side-link">GitHub</a>
+  <a href="https://www.linkedin.com/in/abhinav-pandey19" target="_blank" rel="noopener" class="side-link">LinkedIn</a>
+</nav>
+<section class="welcome">
+  <h1>Welcome to KnowFood</h1>
+  <p>
+    Know your food better. Type the barcode of any packed food,
+    and see its Nutri-Score, calories, sugar, fat, protein and
+    ingredients in one place.
+  </p>
+</section>
+    <div class="main">
+    <div class= "container">
+    <h1 id="h1">KNOW YOUR FOOD</h1>
+    <label for="barcode">PRODUCT BARCODE</label>
+    <input id="barcode" type="numeric" placeholder="enter the barcode">
+    <button id="btn">GET DETAILS</button>
+    </div>
+    <div id="status" class="status" aria-live="polite"></div>
+    <div class="result hidden"></div>
+    <div class="info-box">
+  <h3>What is Nutri-Score?</h3>
+  <p>
+    Nutri-Score is a label that tells you how healthy a food is.
+    It gives a letter from A to E.
+  </p>
+
+  <div class="scale">
+    <span class="grade grade-a">A</span>
+    <span class="grade grade-b">B</span>
+    <span class="grade grade-c">C</span>
+    <span class="grade grade-d">D</span>
+    <span class="grade grade-e">E</span>
+  </div>
+
+  <p><strong>A</strong> = best (healthiest choice)</p>
+  <p><strong>E</strong> = worst (least healthy choice)</p>
+</div>
+    </div>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
