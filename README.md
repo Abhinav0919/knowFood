@@ -68,5 +68,5 @@ Product data is from [Open Food Facts](https://world.openfoodfacts.org) and is a
 
 ABHINAV PANDEY
 
-- GitHub: https://github.com/Abhinav0919)
-- LinkedIn: https://www.linkedin.com/in/abhinav-pandey19)
+- GitHub: https://github.com/Abhinav0919
+- LinkedIn: https://www.linkedin.com/in/abhinav-pandey19
